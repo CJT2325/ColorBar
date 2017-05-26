@@ -1,1 +1,1 @@
-# ColorBar
+# JColorBar
